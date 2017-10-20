@@ -1,0 +1,30 @@
+#mybody{
+	padding-bottom:0px;
+}
+a{
+	color: #333333;
+}
+/*友情链接*/
+.bg_grey{
+	background: #f2f1f2;
+}
+.bg_grey_1{
+	background: #323232;
+
+}
+.font_grey{
+	color: #959595;
+}
+.am-slider-default .am-control-nav{
+	width: 100%;
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
+}
+
+.am-slider-d2 .am-control-nav {
+    width: 100%;
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
+}
